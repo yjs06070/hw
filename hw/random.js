@@ -1,4 +1,4 @@
-for(let i=0;i<=30;i++){
-i=Math.floor(Math.random()*20+10);
-console.log(i);
+for(let i=0;i<30;++i){
+let n= Math.floor((Math.random()*10)+10);
+console.log(n);
 }
