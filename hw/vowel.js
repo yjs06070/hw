@@ -4,4 +4,4 @@ for(let i=0;i<n.length;i++){
     n[i]= console.log(s.search(/[a-z]*i[a-z]*/i));
 }
 // /[a-z]*n[a-z]*/i
-// /i\w/i
+// /i\w/i 
