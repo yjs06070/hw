@@ -10,6 +10,7 @@ let persons2=JSON.parse(JSON.stringify(persons1));
 console.log(persons2);
 /*let persons2=Object.assign({ },persons1);
 console.log(persons2);*/
+
 //personArray1.js와 동일한 방법으로 persons1 배열을 생성
 //persons1 배열을 복제해서 persons2 배열을 생성
 //persons2 배열을 새로 배열을 만들어서, persons1배열의 값들을 복사.
